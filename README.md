@@ -389,12 +389,12 @@ Cross-platform
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/Developer-levantedev-181717?style=for-the-badge&logo=github)](https://github.com/levantedev)
+[![GitHub](https://img.shields.io/badge/Developer-grkmdev-181717?style=for-the-badge&logo=github)](https://github.com/grkmdev)
 [![Discord](https://img.shields.io/badge/Discord-Contact_Me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/321388488140390413)
 
 <br>
 
-[![Star this repo](https://img.shields.io/github/stars/levantedev/102Media-3D-Website?style=social)](https://github.com/levantedev/102Media-3D-Website)
+[![Star this repo](https://img.shields.io/github/stars/grkmdev/102Media-3D-Website?style=social)](https://github.com/grkmdev/102Media-3D-Website)
 
 </div>
 
